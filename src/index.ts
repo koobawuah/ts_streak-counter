@@ -8,6 +8,7 @@ interface Streak {
 
 const KEY = 'streak'
 
+//come back and complete the streakCounter function for the application
 export function streakCounter(storage: Storage, date: Date):Streak {
 
     const streakInLocalStorage = storage.getItem(KEY);
