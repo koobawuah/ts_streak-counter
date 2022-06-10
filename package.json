@@ -1,6 +1,6 @@
 {
   "name": "@koobawuah/ts_streak-counter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A streak counter for the browser, inspired by Duolingo - written in TypeScript and meant for the browser (uses 'localStorage').",
   "scripts": {
     "build":"microbundle",
